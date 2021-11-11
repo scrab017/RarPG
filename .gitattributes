@@ -1,0 +1,4 @@
+data/** filter=lfs diff=lfs merge=lfs -text
+*.mtx filter=lfs diff=lfs merge=lfs -text
+*.h5ad filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
